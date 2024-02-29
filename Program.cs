@@ -31,7 +31,7 @@
             List<Order> orderList = new Order().ParseOrders(Constants.FilePath);
 
             Itinerary itinerary = new Itinerary();
-            List<string> allOrderScheduled = itinerary.FlightItinaries(flightSchedules, orderList);
+            List<string> allOrderScheduled = itinerary.FlightItineraries(flightSchedules, orderList);
             foreach (var orderScheduled in allOrderScheduled)
             {
                 Console.WriteLine(orderScheduled);
