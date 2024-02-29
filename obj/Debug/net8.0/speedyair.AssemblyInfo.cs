@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("speedyair")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46030b8ce1efbf97c4eb9fc28d4e753ff844e1c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("speedyair")]
 [assembly: System.Reflection.AssemblyTitleAttribute("speedyair")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
