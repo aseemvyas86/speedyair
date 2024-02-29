@@ -1,0 +1,17 @@
+/Users/aseem.vyas/Desktop/speedyair/bin/Debug/net8.0/speedyair
+/Users/aseem.vyas/Desktop/speedyair/bin/Debug/net8.0/speedyair.deps.json
+/Users/aseem.vyas/Desktop/speedyair/bin/Debug/net8.0/speedyair.runtimeconfig.json
+/Users/aseem.vyas/Desktop/speedyair/bin/Debug/net8.0/speedyair.dll
+/Users/aseem.vyas/Desktop/speedyair/bin/Debug/net8.0/speedyair.pdb
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.AssemblyInfoInputs.cache
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.AssemblyInfo.cs
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.csproj.CoreCompileInputs.cache
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.dll
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/refint/speedyair.dll
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.pdb
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.genruntimeconfig.cache
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/ref/speedyair.dll
+/Users/aseem.vyas/Desktop/speedyair/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.csproj.AssemblyReference.cache
+/Users/aseem.vyas/Desktop/speedyair/obj/Debug/net8.0/speedyair.csproj.Up2Date
