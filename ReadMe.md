@@ -17,15 +17,15 @@ SpeedyAir.ly is a brand-new company that aims to provide efficient and fast air 
 - This class store days and its relevant flight of that day
 - User can set flights of destinations by using metthod "SetDestinationsForDay"
 Example:
-   schedule.SetDestinationsForDay(["YYZ", "YYC", "YVR"]);
-   schedule.SetDestinationsForDay(["YYZ", "YYE", "YVR"]);
+   - schedule.SetDestinationsForDay(["YYZ", "YYC", "YVR"]);
+   - schedule.SetDestinationsForDay(["YYZ", "YYE", "YVR"]);
 It will set the schedule like  this:
-  flight: 1, departure: YUL, arrival: YYZ, day: 1
-  flight: 2, departure: YUL, arrival: YYC, day: 1
-  flight: 3, departure: YUL, arrival: YVR, day: 1
-  flight: 4, departure: YUL, arrival: YYZ, day: 2
-  flight: 5, departure: YUL, arrival: YYE, day: 2
-  flight: 6, departure: YUL, arrival: YVR, day: 2
+  - flight: 1, departure: YUL, arrival: YYZ, day: 1
+  - flight: 2, departure: YUL, arrival: YYC, day: 1
+  - flight: 3, departure: YUL, arrival: YVR, day: 1
+  - flight: 4, departure: YUL, arrival: YYZ, day: 2
+  - flight: 5, departure: YUL, arrival: YYE, day: 2
+  - flight: 6, departure: YUL, arrival: YVR, day: 2
 
 - User can again reset all the days schedule by using method  "Reset"
 - User can set departure city by default it is set to "YUL"
